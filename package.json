@@ -1,0 +1,15 @@
+{
+  "name": "posthtml-modules-bug-repro",
+  "version": "0.0.0",
+  "main": "build.js",
+  "author": "Benjamim Sonntag <benjamimsonntag@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node build.js"
+  },
+  "dependencies": {
+    "posthtml": "^0.13.1",
+    "posthtml-modules": "^0.6.0"
+  }
+}
